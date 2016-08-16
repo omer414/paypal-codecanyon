@@ -12,8 +12,8 @@ $config = array(
 	* DATABASE ACCESS CREDENTIALS
 	*/
 	'db_host' => 'localhost', // database host, usually localhost
-	'db_username' => '', // database username
-	'db_password' => '', // datebase password
-	'db_name' => '', // database name
+	'db_username' => 'xhkztbjeeg', // database username
+	'db_password' => 'dNt2hSEkG3', // datebase password
+	'db_name' => 'xhkztbjeeg', // database name
 
 );
